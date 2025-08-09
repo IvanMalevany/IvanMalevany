@@ -15,13 +15,14 @@
 I'm a Senior Software Engineer with over 9 years of working experience.
 
 My frontend stack:
--   JavaScript (TypeScript), HTML, CSS (SASS/SCSS)
--   Vue, Nuxt, React, GraphQL,
--   Jest, Cypress, 
--   Webpack, Babel
+-   JavaScript (TypeScript) ES6+, HTML, CSS (SASS/SCSS)
+-   React, Next, Vue, Nuxt, Angular
+-   REST / GraphQL API, WebSockets
+-   Jest, Cypress (Unit, Integration, E2E, TDD)
+-   Vite, Webpack, Babel
 -   ESLint, Prettier
 
 My backend stack:
--   PHP, Java, Node (Nuxt, Next, Nest)
--   MySQL, PostgreSQL
--   CI/CD, Docker
+-   Node (Nuxt, Next, Nest), Python, Java, PHP 
+-   SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis, Elasticsearch)
+-   AWS, Docker, CI/CD, Kafka, bullmq, Microservice Architecture
